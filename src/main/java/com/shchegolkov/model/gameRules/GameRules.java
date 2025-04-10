@@ -1,4 +1,4 @@
-package com.shchegolkov.gameRules;
+package com.shchegolkov.model.gameRules;
 
 import com.shchegolkov.model.gameObject.GameObject;
 
