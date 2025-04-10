@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class GameMapConstructor {
     private List<GameObject> enemiesObjects; // Список противников.
-    private int enemiesCount; // Количество противников.
+    private final int enemiesCount; // Количество противников.
     private final int wallsCount; // Количество препятствий.
     private int[][] gameMap; // Игровое поле.
     private FinishObject finishObject; // Объект финиш.
